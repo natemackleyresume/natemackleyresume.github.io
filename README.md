@@ -1,3 +1,0 @@
-# natemackleyresume.github.io
-
-test
