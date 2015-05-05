@@ -1,0 +1,27 @@
+.spacer {
+	  padding: 10px
+}
+
+.contact {
+	padding: 4px;
+}
+
+.info {
+	padding: 2px;
+}
+
+.mailform {
+	padding: 2px;
+}
+
+.contactpage {
+	text-align: center;
+}
+
+.contactpage h1 {
+	font-size: 48px;
+}
+
+.contactpage a {
+	font-size: 18px;
+}
